@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Oc5AmLKZ#V5wXgELQr-u8PJKl0GaUIBp-k9xUq-AGPZRZoA9pNgI.",
       "required": true,
       "value": ""
     },  
@@ -16,13 +16,13 @@
     "OWNER_NUMBER": {
       "description": "Set your owner number",
       "required": true,
-      "value": "94779062397"
+      "value": "918617845264"
     },
 
     "DEV": {
       "description": "Bot Developer Numeber",
       "required": true,
-      "value": "94779062397"
+      "value": "917047045164"
     },
     
     "PREFIX": {
@@ -40,19 +40,19 @@
     "AUTO_VOICE": {
       "description": "Make it true if you want bot auto voice.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },  
     
       "AUTO_REPLY": {
       "description": "Make it true if you want bot auto reply.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },  
 
     "AUTO_READ_STATUS": {
       "description": "Make it true if you want bot auto auto_read_status.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
     
     "AUTO_STATUS_REPLY": {
@@ -70,7 +70,7 @@
     "AUTO_STATUS_REACT": {
       "description": "Make it tru status auto react to any emojis",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_BIO": {
@@ -82,7 +82,7 @@
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     
     "AUTO_TYPING": {
@@ -100,7 +100,7 @@
       "CUSTOM_REACT": {
       "description": "Make it true if you want bot custome react.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     
       "CUSTOM_REACT_EMOJIS": {
@@ -118,7 +118,7 @@
     "ANTI_BAD": {
       "description": "Bad word not allowed",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     
     "READ_MESSAGE": {
@@ -136,7 +136,7 @@
     "ANTI_DELETE": {
       "description": "Delete massages show",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     
     "INBOX_BLOCK": {
@@ -148,13 +148,13 @@
      "WELCOME": {
       "description": "Set Group welcome massage",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     
      "GOODBYE": {
       "description": "Set Group goodbye massage",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     
      "ADMIN_EVENTS": {
